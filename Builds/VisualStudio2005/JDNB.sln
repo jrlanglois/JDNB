@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{6BAAEF05-2ADF-BA55-A252-69DA4F5B6C56}") = "JDNB", "JDNB.vcproj", "{DDC7D3F8-B764-E435-69DC-35126E620E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC7D3F8-B764-E435-69DC-35126E620E13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDC7D3F8-B764-E435-69DC-35126E620E13}.Debug|Win32.Build.0 = Debug|Win32
+		{DDC7D3F8-B764-E435-69DC-35126E620E13}.Release|Win32.ActiveCfg = Release|Win32
+		{DDC7D3F8-B764-E435-69DC-35126E620E13}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
